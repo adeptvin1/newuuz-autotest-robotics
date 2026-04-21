@@ -1,0 +1,16 @@
+# Python virtual environments
+.venv/
+autotests/.venv/
+
+# Pytest cache and local artifacts
+.pytest_cache/
+autotests/.pytest_cache/
+autotests/**/__pycache__/
+autotests/**/*.pyc
+
+# Local student submissions and secrets
+autotests/submissions/*.json
+!autotests/submissions/example_submission.json
+autotests/submissions/output/*.json
+.env
+.env.*

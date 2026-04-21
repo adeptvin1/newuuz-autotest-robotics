@@ -1,0 +1,18 @@
+{
+  "student_id": "2026-001",
+  "github": "octocat/Hello-World",
+  "eth_address": "0x94567A54061741083C576F9D7E52Db5738dF96Ff",
+  "polkadot_address": "5ExampleAddressForFutureAssignments",
+  "contracts": {
+    "erc20": "0x0000000000000000000000000000000000000000",
+    "erc721": "0x0000000000000000000000000000000000000000"
+  },
+  "nft_token_id_for_check": 1,
+  "ethernaut_levels": [
+    "Fallback",
+    "Fallout",
+    "CoinFlip",
+    "King",
+    "Reentrancy"
+  ]
+}
